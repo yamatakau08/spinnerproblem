@@ -13,7 +13,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //
         // spinner 1
         // items are specified by "entries" in xml
         val sp1 = findViewById<Spinner>(R.id.sp1)
